@@ -17,5 +17,10 @@ Todo:
 	-determine if result is significantly more than half
 
 Notes:
--take into account roulette croupier spin clockwise (CW) and anticlockwise (CW) in alternate.
+-take into account roulette dealer spin clockwise (CW) and anticlockwise (CW) in alternate.
 -to take reference from previous same direction spin
+
+Future todo:
+-calculate different correct range (e.g. +8,+7,+6,+5,+4,+3,+2,+1)
+-compare between dealer/wheels
+
