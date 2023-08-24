@@ -1,0 +1,21 @@
+Objective:
+To see if roulette dealer has Dealer Signature/muscle memory when spinning the ball
+
+Todo:
+1.gather data
+
+2.process data
+-determine if the ball is within expected half of roulette wheel
+	-determine EXPECTED DISTANCE
+		-compare pocket between previous previous result and previous result
+	-determine EXPECTED RESULT
+		-calculate expected result by adding expected distance to previoust result
+	-determine CORRECT HALF
+		-determine what is correct half based on expected result
+		-compare if actual result is within correct half
+3.analyze data
+	-determine if result is significantly more than half
+
+Notes:
+-take into account roulette croupier spin clockwise (CW) and anticlockwise (CW) in alternate.
+-to take reference from previous same direction spin
